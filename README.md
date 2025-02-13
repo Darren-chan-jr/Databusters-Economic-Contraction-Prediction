@@ -5,7 +5,9 @@ This project focuses on forecasting U.S. economic contractions using macroeconom
 
 # Dataset
 Monthly & Quarterly Macroeconomic Data: Includes GDP, unemployment rate, interest rates, consumer spending, and other economic indicators.
+
 Source: Federal Reserve Economic Data (FRED).
+
 Time Period: Historical economic data used to train and validate models.
 
 # Methodology
